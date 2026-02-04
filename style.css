@@ -1,9 +1,9 @@
 body{
     padding: 10px;
     margin: 5px;
-    font-family: cursive;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .parent{
@@ -55,4 +55,5 @@ body{
 .item1,.item5,.item6{
     padding:20px;
     align-content: center;
+
 }
